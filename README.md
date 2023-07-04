@@ -1,6 +1,6 @@
 # SmartCalculator
 
 A sleek and user-friendly calculator designed to simplify calculations with style. 
+![Screen Shot 2023-07-04 at 12 55 00 PM](https://github.com/minahilx/SmartCalculator/assets/71601253/3ecbc26b-b97c-4327-8bfc-fbb06097e59e)
 
-![demo](https://github.com/minahilx/SmartCalculator/assets/71601253/eec6ceb9-5945-4e40-9254-11bb6226d7e9)
 
